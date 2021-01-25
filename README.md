@@ -29,11 +29,13 @@ Both results data was queried from the hawaii.sqlite file available in this repo
 
 Based on the results, it can be said that the weather in Oahu is fairly static during the months of June and December. Although December posted a maximum temp of 83, it was only one time that this occured. 
 
-![Dec Max loc]()
+![Dec Max loc](https://github.com/patrickryanpo/surfs_up/blob/main/Resources/Dec%20Max.png)
+
+It should be smooth sailing for the Surf Shop when it comes to weather and temperature concerns. W. Avy should feel confident presenting our findings to the board of directors. 
 
 ## Additional Query: Precipitations
-![June Precip]()
+![June Precip](https://github.com/patrickryanpo/surfs_up/blob/main/Resources/June%20Precip.png)
 
-![Dec Precip]()
+![Dec Precip](https://github.com/patrickryanpo/surfs_up/blob/main/Resources/Dec%20Precip.png)
 
 Based on the findings, precipitation will not be a factor in both June and December. W. Avy should not feel concerned about constant rain affecting the Surfshop. 
